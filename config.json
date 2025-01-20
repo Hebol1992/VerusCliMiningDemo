@@ -1,23 +1,13 @@
 {
 	"pools":[
 	{
-		"name": "LuckPool",
-        	"url": "stratum+tcp://na.luckpool.net:3960",
+		"name": "ZergPool",
+        	"url": "stratum+tcp://verushash.mine.zergpool.com:3300",
 		"timeout": 150
-	},
-	{
-		"name": "LuckPoolFailover1",
-        	"url": "stratum+tcp://na.luckpool.net:3956",
-		"timeout": 150
-	},
-	{
-		"name": "LuckPoolFailover2",
-        	"url": "stratum+tcp://na.luckpool.net:3957",
-		"timeout": 150
-	}
-	],
-	"user": "bc1q5h8hlkpr4736yrnq4vyyudvjn3h6782n38mug2",
-	"pass": "c=BTC",
+
+	}],
+	"user": "0xdd483F0aa9Ed6506d4Cd0016DDcDd8F841Db9DcD",
+	"pass": "c=PNG",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
