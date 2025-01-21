@@ -6,8 +6,8 @@
 		"timeout": 150
 
 	}],
-	"user": "0xdd483F0aa9Ed6506d4Cd0016DDcDd8F841Db9DcD",
-	"pass": "c=PNG",
+	"user": "RYEHrFLnfcX8Z1bnaSxCEv1YnGmBSYBGGj",
+	"pass": "c=VRSC",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
